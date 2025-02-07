@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heaven</h1>
-<h3 align="center">A passionate Full stack developer in Ireland</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heavenike02" alt="heavenike02" /></a> </p>
+<h3 align="center">A passionate Full stack developer from Ireland</h3>
 
 - 🔭 I’m currently a product manager **@ SAP**
 
@@ -19,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heavenike02&show_icons=true&locale=en" alt="heavenike02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heavenike02&" alt="heavenike02" /></p>
+
