@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heaven</h1>
 <h3 align="center">A passionate Full stack developer from Ireland</h3>
 
-- 🔭 I’m currently a product manager **@ SAP**
+- 🔭 I’m currently a Software Engineer **@ JP Morgan**
 
 - 🌱 I’m currently learning **Next JS**
 
